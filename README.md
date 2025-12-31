@@ -291,14 +291,10 @@ pm2 restart streamflow
 - Set `NODE_ENV=production`
 - Akses melalui HTTPS untuk cookie session
 
-## 💫 Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=bangtutorial/streamflow)](https://github.com/bangtutorial/streamflow/graphs/contributors)
-
 ## 📄 License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/bangtutorial/streamflow/blob/main/LICENSE)
 
 ---
-© 2025 - [Bang Tutorial](https://youtube.com/bangtutorial)
+© 2025 - [STREAMYT](https://youtube.com/@rafael.parenting)
 
