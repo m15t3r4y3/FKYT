@@ -79,7 +79,7 @@ git clone https://github.com/m15t3r4y3/FKYT
 
 Masuk ke direktori project:
 ```bash
-cd streamflow
+cd FKYT
 ```
 
 Install Paket Node.JS:
