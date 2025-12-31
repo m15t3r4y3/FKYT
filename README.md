@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/50231124-d546-43cb-9cf4-7a06a1dad5bd)
+![logo](https://github.com/m15t3r4y3/FKYT/blob/main/public/images/im.png)
 
 # StreamYT Final Version: Solusi Live Streaming Multi-Platform
 
