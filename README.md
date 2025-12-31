@@ -31,7 +31,7 @@ StreamYT adalah aplikasi live streaming modern yang dirancang untuk memudahkan k
 Untuk instalasi otomatis, jalankan perintah berikut:
 
 ```bash
-curl -o install.sh https://raw.githubusercontent.com/bangtutorial/streamflow/main/install.sh && chmod +x install.sh && ./install.sh
+curl -o install.sh https://raw.githubusercontent.com/m15t3r4y3/FKYT/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ## 🔧 Manual Installation
@@ -74,7 +74,7 @@ sudo apt install git -y
 
 Clone repository:
 ```bash
-git clone https://github.com/bangtutorial/streamflow
+git clone https://github.com/m15t3r4y3/FKYT
 ```
 
 Masuk ke direktori project:
@@ -293,7 +293,7 @@ pm2 restart streamflow
 
 ## 📄 License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/bangtutorial/streamflow/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]
 
 ---
 © 2025 - [STREAMYT](https://youtube.com/@rafael.parenting)
